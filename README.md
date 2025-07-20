@@ -41,4 +41,4 @@ other bot files are encrypted to prevent theft.
 charges 0.0001 sol for each successful transaction
 No fee if transaction fails
 If you need help, you can send an e-mail
-huseyin_cokal@hotmail.com
+
